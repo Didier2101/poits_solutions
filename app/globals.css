@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animate-spin-slow {
+  animation: spin 20s linear infinite;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.container {
+  @apply max-w-7xl mx-auto;
+}
+
+.section {
+  @apply p-4 
+    flex 
+    flex-col 
+    items-start 
+    justify-center 
+    h-[70vh]
+    md:h-[80vh] 
+    lg:h-[90vh]
+    mb-[40px];
+}
+
+/* styles.css o cualquier archivo global */
+.title-section {
+  @apply text-3xl md:text-4xl lg:text-6xl font-bold mb-8 text-gray-600;
+}
+/* styles.css o cualquier archivo global */
+.text-paragraph {
+  @apply text-xs lg:text-lg font-semibold mb-12 text-gray-500;
+}
+
+/* Personalización del scroll */
+::-webkit-scrollbar {
+  width: 6px; /* Ancho del scrollbar */
+  height: 6px; /* Altura del scrollbar en caso de scroll horizontal */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* Fondo del track transparente */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888888; /* Color gris para el thumb */
+  border-radius: 5px; /* Bordes redondeados */
+  border: 1px solid transparent; /* Sin borde visible */
+}

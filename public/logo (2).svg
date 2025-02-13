@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 584">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .9;
+      }
+
+      .cls-2 {
+        fill: #ff7f3a;
+      }
+
+      .cls-3 {
+        fill: #ed5a39;
+      }
+
+      .cls-4 {
+        fill: #ff6f1d;
+      }
+
+      .cls-5 {
+        fill: #132fa9;
+      }
+
+      .cls-6 {
+        fill: #996f57;
+      }
+
+      .cls-7 {
+        fill: #ff1d38;
+      }
+
+      .cls-8 {
+        fill: #ffd73b;
+      }
+
+      .cls-9 {
+        fill: #673f92;
+      }
+
+      .cls-10 {
+        fill: #685bf5;
+      }
+
+      .cls-11 {
+        fill: #37c970;
+      }
+
+      .cls-12 {
+        fill: #48c662;
+      }
+
+      .cls-13 {
+        fill: #ffae98;
+      }
+
+      .cls-14 {
+        fill: #fbea76;
+      }
+
+      .cls-15 {
+        fill: #a69865;
+      }
+
+      .cls-16 {
+        fill: #d4502c;
+      }
+
+      .cls-17 {
+        fill: #8c7d49;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g class="cls-1">
+      <circle class="cls-9" cx="298" cy="289" r="50"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-15" cx="298" cy="105" rx="40" ry="35"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-5" cx="298" cy="189" rx="45" ry="40"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-14" cx="565" cy="289" rx="30" ry="35"/>
+    </g>
+    <g class="cls-1">
+      <circle class="cls-8" cx="403" cy="187" r="25"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-7" cx="403" cy="289" rx="40" ry="45"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-16" cx="298" cy="393" rx="45" ry="40"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-14" cx="192" cy="289" rx="40" ry="45"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-4" cx="298" cy="480" rx="40" ry="35"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-3" cx="489" cy="289" rx="35" ry="40"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-17" cx="106" cy="289" rx="35" ry="40"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-11" cx="298" cy="30" rx="35" ry="30"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-10" cx="30" cy="289" rx="30" ry="35"/>
+    </g>
+    <g class="cls-1">
+      <ellipse class="cls-12" cx="298" cy="554" rx="35" ry="30"/>
+    </g>
+    <g class="cls-1">
+      <circle class="cls-13" cx="193" cy="187" r="25"/>
+    </g>
+    <g class="cls-1">
+      <circle class="cls-2" cx="403.42" cy="396.7" r="25"/>
+    </g>
+    <g class="cls-1">
+      <circle class="cls-6" cx="193" cy="396" r="25"/>
+    </g>
+  </g>
+</svg>
